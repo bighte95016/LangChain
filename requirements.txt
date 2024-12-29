@@ -1,5 +1,8 @@
 langchain
 openai
 langchain-openai
+langchain_community
 python-dotenv
 numexpr
+pypdf
+beautifulsoup4
