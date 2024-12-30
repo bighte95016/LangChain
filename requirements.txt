@@ -6,3 +6,4 @@ python-dotenv
 numexpr
 pypdf
 beautifulsoup4
+chromadb
