@@ -7,3 +7,4 @@ numexpr
 pypdf
 beautifulsoup4
 chromadb
+lark
