@@ -8,3 +8,4 @@ pypdf
 beautifulsoup4
 chromadb
 lark
+faiss-cpu
