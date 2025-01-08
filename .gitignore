@@ -1,1 +1,3 @@
 .env
+db/index.faiss
+db/index.pkl
