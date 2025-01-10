@@ -10,3 +10,5 @@ chromadb
 lark
 faiss-cpu
 pandas
+langchainhub
+wikipedia
